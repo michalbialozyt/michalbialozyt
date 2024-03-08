@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">A fourth year student of Automatics and Robotics at the AGH University of Science and Technology and a C++ software engineer at CAE Flight Services</h3>
+<h3 align="center">A fourth year student of Computer Science at the AGH University of Science and Technology and a C++ software engineer at CAE Flight Services</h3>
 
 - 🔭 I’m currently working on [a chess application](https://github.com/michalbialozyt/Chess)
 
